@@ -23,7 +23,7 @@
 ###
 
 <h3 align="left">My name is Sanjay Kumar. I am a final year student of B.Tech in CSE from JECRC University and I am a Front-end Developer. Currently I use React and Tailwind CSS for my projects and I am learning nextJS for now.<br>:)</h3>
-<h2>Have some crazy ideas for collaboration ping me at sanjaykumarjat351728@gmail.com</h2>
+<h2>Have some crazy ideas for collaboration ping me at <a href="sanjaykumarjat351728@gmail.com">HERE</a></h2>
 
 ###
 
